@@ -1,0 +1,47 @@
+{
+ "version": 1,
+ "themes": [
+  {
+   "theme": "dark", "dark": true,
+   "background": "121212", "surface": "1E1E1E", "elevated": "262626",
+   "text": "FFFFFF", "secondaryText": "B0B0B0", "primary": "3A86FF", "accent": "00E5FF",
+   "success": "4CAF50", "warning": "FFC107", "error": "F44336", "field": "171717", "grid": "2C2C2C"
+  },
+  {
+   "theme": "light", "dark": false,
+   "background": "F5F7FA", "surface": "FFFFFF", "elevated": "EDF1F7",
+   "text": "16181D", "secondaryText": "5D6470", "primary": "2F6FE0", "accent": "0091A8",
+   "success": "2E7D32", "warning": "B98300", "error": "C62828", "field": "FFFFFF", "grid": "DCE2EB"
+  },
+  {
+   "theme": "neon", "dark": true,
+   "background": "0B0713", "surface": "17102A", "elevated": "211838",
+   "text": "F7F0FF", "secondaryText": "A99AC9", "primary": "B04BFF", "accent": "36F1CD",
+   "success": "5BE37D", "warning": "FFD24A", "error": "FF4D7E", "field": "120B21", "grid": "2E2149"
+  },
+  {
+   "theme": "cyber", "dark": true,
+   "background": "04161A", "surface": "0A2429", "elevated": "0F3138",
+   "text": "E6FBFF", "secondaryText": "82AFB7", "primary": "00C2C7", "accent": "A6FF3C",
+   "success": "49E08A", "warning": "FFB020", "error": "FF5C5C", "field": "061D22", "grid": "13424A"
+  },
+  {
+   "theme": "minimal", "dark": false,
+   "background": "FAFAF8", "surface": "FFFFFF", "elevated": "F0F0EC",
+   "text": "1F2124", "secondaryText": "6B6F76", "primary": "3D4450", "accent": "7A8794",
+   "success": "4B7A55", "warning": "9A7B2E", "error": "A34A44", "field": "FFFFFF", "grid": "E3E3DE"
+  },
+  {
+   "theme": "retro", "dark": false,
+   "background": "F2E6CE", "surface": "FBF3E2", "elevated": "E8D7B4",
+   "text": "3A2A17", "secondaryText": "7A6244", "primary": "C1652F", "accent": "2F7D74",
+   "success": "5B7F3A", "warning": "B98A22", "error": "A93B2B", "field": "FBF3E2", "grid": "DEC9A2"
+  },
+  {
+   "theme": "amoled", "dark": true,
+   "background": "000000", "surface": "0A0A0A", "elevated": "141414",
+   "text": "FFFFFF", "secondaryText": "8A8A8A", "primary": "2F7BFF", "accent": "00E5FF",
+   "success": "3FBF57", "warning": "E5AE00", "error": "E23A32", "field": "000000", "grid": "1C1C1C"
+  }
+ ]
+}

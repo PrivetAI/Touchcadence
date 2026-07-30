@@ -1,0 +1,458 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		070711A3083A9690A6BFF03F /* movements.json in Resources */ = {isa = PBXBuildFile; fileRef = 36F71014808B58CF291BB031 /* movements.json */; };
+		09C2FDA9BD6427AA4A7AD67B /* ChallengesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C5641AD2CC1243BD78D183F /* ChallengesView.swift */; };
+		0A14160FBB0D69C715C008FA /* LibraryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D447516D7DEDB3823002A4E7 /* LibraryView.swift */; };
+		1A048AE2D509E0368C6C8E37 /* StatisticsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F002A79D6C1B026F925900C3 /* StatisticsView.swift */; };
+		254C083165374B7CEF311F35 /* RootView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A91599F357CA40F690B9900 /* RootView.swift */; };
+		258A7C39EEF225B2A6AB2051 /* Store.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22B43CAE12D788F142F7595E /* Store.swift */; };
+		31F1C6798E8BB18C4152B99D /* Glyphs.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0A130921BC873F7771D99D4 /* Glyphs.swift */; };
+		33252E96911BB0B1BA7FA724 /* ProgramsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A262E3FEACF9FC81B5DB578 /* ProgramsView.swift */; };
+		3D5E0BD511994E9D0F632388 /* catalog.json in Resources */ = {isa = PBXBuildFile; fileRef = CC98DA3D75AC5A25B31CA8AA /* catalog.json */; };
+		48CB253458F4F5FD8659A71F /* MotionEngine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 417B621EC8E27D9DC28B64CF /* MotionEngine.swift */; };
+		5CF791C571B4DC45FCA64658 /* Database.swift in Sources */ = {isa = PBXBuildFile; fileRef = 266AFB74810FC268B99D445D /* Database.swift */; };
+		7750E66700EB682BA5C327FD /* Charts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 223CBC5D3443D8A623356F80 /* Charts.swift */; };
+		937C70ADB8DA6B8916AA42C1 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1982B1A1356EBE16F86CDF9D /* HomeView.swift */; };
+		9C8BCC647F9B2DBBACA82A61 /* Components.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BDB205FF649AA5D3AA15F5E /* Components.swift */; };
+		9DBE7CA7BC61B0350BCA1E82 /* Palette.swift in Sources */ = {isa = PBXBuildFile; fileRef = D395140CAFCD16768D8A26EF /* Palette.swift */; };
+		A2E4469AC33283FD1DA5C21B /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07EC21904E06FBA85713D651 /* SettingsView.swift */; };
+		A6A45013CFFAE8979C20DC4B /* Feedback.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28021E459EE0C50D78B6EBF7 /* Feedback.swift */; };
+		AC31E5FFCFC3874096B08070 /* GameFlowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 758B2AA152734A133E442F4D /* GameFlowView.swift */; };
+		B6556F24DFA656182F81835E /* PracticeViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76906EFCBDBF289B31F7B8E7 /* PracticeViews.swift */; };
+		B935469CA2D0594336E2DB1D /* ScoreEngine.swift in Sources */ = {isa = PBXBuildFile; fileRef = D294A9F079E3391223D0128A /* ScoreEngine.swift */; };
+		B9723CEE6721B2B125E36C2A /* GameEngine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8389B8128F1CEB9161204152 /* GameEngine.swift */; };
+		BD2A978EEF0A42B264DA54B9 /* libsqlite3.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 239A488322C58EAED895D57F /* libsqlite3.tbd */; };
+		C2BBDCF728C916A7F72D0CBB /* themes.json in Resources */ = {isa = PBXBuildFile; fileRef = A26AFA509247EECBFFD76664 /* themes.json */; };
+		D88D11F5E2650F8FA0D927BB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CA02ECAA5E6AB9C0E8AE60CA /* Assets.xcassets */; };
+		D8F60386CC00DC6260AB62E7 /* Catalog.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDC6D1BD2C2565CC7800FF80 /* Catalog.swift */; };
+		F2ED1BD53A9085E2D807E671 /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = F39CEF14022B99A789F1E70C /* Models.swift */; };
+		F672A0F91856A95DAEBAF58F /* KinetraApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 755A716CB75AC75229542714 /* KinetraApp.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		07EC21904E06FBA85713D651 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		1982B1A1356EBE16F86CDF9D /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		1A262E3FEACF9FC81B5DB578 /* ProgramsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgramsView.swift; sourceTree = "<group>"; };
+		223CBC5D3443D8A623356F80 /* Charts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Charts.swift; sourceTree = "<group>"; };
+		22B43CAE12D788F142F7595E /* Store.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Store.swift; sourceTree = "<group>"; };
+		239A488322C58EAED895D57F /* libsqlite3.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libsqlite3.tbd; path = usr/lib/libsqlite3.tbd; sourceTree = SDKROOT; };
+		266AFB74810FC268B99D445D /* Database.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Database.swift; sourceTree = "<group>"; };
+		28021E459EE0C50D78B6EBF7 /* Feedback.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Feedback.swift; sourceTree = "<group>"; };
+		36F71014808B58CF291BB031 /* movements.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = movements.json; sourceTree = "<group>"; };
+		417B621EC8E27D9DC28B64CF /* MotionEngine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MotionEngine.swift; sourceTree = "<group>"; };
+		5BDB205FF649AA5D3AA15F5E /* Components.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Components.swift; sourceTree = "<group>"; };
+		603C6AD6CEE5E51E651DC879 /* Kinetra.app */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.application; path = Kinetra.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		6A91599F357CA40F690B9900 /* RootView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootView.swift; sourceTree = "<group>"; };
+		6C5641AD2CC1243BD78D183F /* ChallengesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChallengesView.swift; sourceTree = "<group>"; };
+		755A716CB75AC75229542714 /* KinetraApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KinetraApp.swift; sourceTree = "<group>"; };
+		758B2AA152734A133E442F4D /* GameFlowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameFlowView.swift; sourceTree = "<group>"; };
+		76906EFCBDBF289B31F7B8E7 /* PracticeViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PracticeViews.swift; sourceTree = "<group>"; };
+		8389B8128F1CEB9161204152 /* GameEngine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameEngine.swift; sourceTree = "<group>"; };
+		A26AFA509247EECBFFD76664 /* themes.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = themes.json; sourceTree = "<group>"; };
+		CA02ECAA5E6AB9C0E8AE60CA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		CC98DA3D75AC5A25B31CA8AA /* catalog.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = catalog.json; sourceTree = "<group>"; };
+		D294A9F079E3391223D0128A /* ScoreEngine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoreEngine.swift; sourceTree = "<group>"; };
+		D395140CAFCD16768D8A26EF /* Palette.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Palette.swift; sourceTree = "<group>"; };
+		D447516D7DEDB3823002A4E7 /* LibraryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LibraryView.swift; sourceTree = "<group>"; };
+		DDC6D1BD2C2565CC7800FF80 /* Catalog.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Catalog.swift; sourceTree = "<group>"; };
+		E0A130921BC873F7771D99D4 /* Glyphs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Glyphs.swift; sourceTree = "<group>"; };
+		F002A79D6C1B026F925900C3 /* StatisticsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatisticsView.swift; sourceTree = "<group>"; };
+		F39CEF14022B99A789F1E70C /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		623F982286E9AB069760DDFE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BD2A978EEF0A42B264DA54B9 /* libsqlite3.tbd in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		1996820C3AEDC8B0AAE63F53 = {
+			isa = PBXGroup;
+			children = (
+				75934ADAD174FC92DF145233 /* Kinetra */,
+				2A0F786C3E7AF777F8212C65 /* Frameworks */,
+				A4FB2EC454F0F4E6B9A77824 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		19A361846699B7EE421317C1 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				CC98DA3D75AC5A25B31CA8AA /* catalog.json */,
+				36F71014808B58CF291BB031 /* movements.json */,
+				A26AFA509247EECBFFD76664 /* themes.json */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		2A0F786C3E7AF777F8212C65 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				239A488322C58EAED895D57F /* libsqlite3.tbd */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		75934ADAD174FC92DF145233 /* Kinetra */ = {
+			isa = PBXGroup;
+			children = (
+				CA02ECAA5E6AB9C0E8AE60CA /* Assets.xcassets */,
+				DDC6D1BD2C2565CC7800FF80 /* Catalog.swift */,
+				6C5641AD2CC1243BD78D183F /* ChallengesView.swift */,
+				223CBC5D3443D8A623356F80 /* Charts.swift */,
+				5BDB205FF649AA5D3AA15F5E /* Components.swift */,
+				266AFB74810FC268B99D445D /* Database.swift */,
+				28021E459EE0C50D78B6EBF7 /* Feedback.swift */,
+				8389B8128F1CEB9161204152 /* GameEngine.swift */,
+				758B2AA152734A133E442F4D /* GameFlowView.swift */,
+				E0A130921BC873F7771D99D4 /* Glyphs.swift */,
+				1982B1A1356EBE16F86CDF9D /* HomeView.swift */,
+				755A716CB75AC75229542714 /* KinetraApp.swift */,
+				D447516D7DEDB3823002A4E7 /* LibraryView.swift */,
+				F39CEF14022B99A789F1E70C /* Models.swift */,
+				417B621EC8E27D9DC28B64CF /* MotionEngine.swift */,
+				D395140CAFCD16768D8A26EF /* Palette.swift */,
+				76906EFCBDBF289B31F7B8E7 /* PracticeViews.swift */,
+				1A262E3FEACF9FC81B5DB578 /* ProgramsView.swift */,
+				19A361846699B7EE421317C1 /* Resources */,
+				6A91599F357CA40F690B9900 /* RootView.swift */,
+				D294A9F079E3391223D0128A /* ScoreEngine.swift */,
+				07EC21904E06FBA85713D651 /* SettingsView.swift */,
+				F002A79D6C1B026F925900C3 /* StatisticsView.swift */,
+				22B43CAE12D788F142F7595E /* Store.swift */,
+			);
+			path = Kinetra;
+			sourceTree = "<group>";
+		};
+		A4FB2EC454F0F4E6B9A77824 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				603C6AD6CEE5E51E651DC879 /* Kinetra.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1A204124B5CCE99F46C69299 /* Kinetra */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 31BC1644FDA8925CCC03FE8D /* Build configuration list for PBXNativeTarget "Kinetra" */;
+			buildPhases = (
+				F99475B6AD4B3E365CF1203B /* Sources */,
+				1E1FC1211AEB73D68B5425C5 /* Resources */,
+				623F982286E9AB069760DDFE /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Kinetra;
+			packageProductDependencies = (
+			);
+			productName = Kinetra;
+			productReference = 603C6AD6CEE5E51E651DC879 /* Kinetra.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		1EA6C40DBC28BEB315171E2F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = YES;
+				LastUpgradeCheck = 1430;
+				TargetAttributes = {
+					1A204124B5CCE99F46C69299 = {
+						DevelopmentTeam = "";
+						ProvisioningStyle = Manual;
+					};
+				};
+			};
+			buildConfigurationList = 046C2E79F846935CDC99464D /* Build configuration list for PBXProject "Kinetra" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				Base,
+				en,
+			);
+			mainGroup = 1996820C3AEDC8B0AAE63F53;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = A4FB2EC454F0F4E6B9A77824 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1A204124B5CCE99F46C69299 /* Kinetra */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1E1FC1211AEB73D68B5425C5 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D88D11F5E2650F8FA0D927BB /* Assets.xcassets in Resources */,
+				3D5E0BD511994E9D0F632388 /* catalog.json in Resources */,
+				070711A3083A9690A6BFF03F /* movements.json in Resources */,
+				C2BBDCF728C916A7F72D0CBB /* themes.json in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		F99475B6AD4B3E365CF1203B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D8F60386CC00DC6260AB62E7 /* Catalog.swift in Sources */,
+				09C2FDA9BD6427AA4A7AD67B /* ChallengesView.swift in Sources */,
+				7750E66700EB682BA5C327FD /* Charts.swift in Sources */,
+				9C8BCC647F9B2DBBACA82A61 /* Components.swift in Sources */,
+				5CF791C571B4DC45FCA64658 /* Database.swift in Sources */,
+				A6A45013CFFAE8979C20DC4B /* Feedback.swift in Sources */,
+				B9723CEE6721B2B125E36C2A /* GameEngine.swift in Sources */,
+				AC31E5FFCFC3874096B08070 /* GameFlowView.swift in Sources */,
+				31F1C6798E8BB18C4152B99D /* Glyphs.swift in Sources */,
+				937C70ADB8DA6B8916AA42C1 /* HomeView.swift in Sources */,
+				F672A0F91856A95DAEBAF58F /* KinetraApp.swift in Sources */,
+				0A14160FBB0D69C715C008FA /* LibraryView.swift in Sources */,
+				F2ED1BD53A9085E2D807E671 /* Models.swift in Sources */,
+				48CB253458F4F5FD8659A71F /* MotionEngine.swift in Sources */,
+				9DBE7CA7BC61B0350BCA1E82 /* Palette.swift in Sources */,
+				B6556F24DFA656182F81835E /* PracticeViews.swift in Sources */,
+				33252E96911BB0B1BA7FA724 /* ProgramsView.swift in Sources */,
+				254C083165374B7CEF311F35 /* RootView.swift in Sources */,
+				B935469CA2D0594336E2DB1D /* ScoreEngine.swift in Sources */,
+				A2E4469AC33283FD1DA5C21B /* SettingsView.swift in Sources */,
+				1A048AE2D509E0368C6C8E37 /* StatisticsView.swift in Sources */,
+				258A7C39EEF225B2A6AB2051 /* Store.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		40E69D03E9CB26B2C19B8553 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGNING_ALLOWED = NO;
+				CODE_SIGNING_REQUIRED = NO;
+				CODE_SIGN_IDENTITY = "";
+				CODE_SIGN_STYLE = Manual;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = Kinetra/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kinetra.app;
+				PRODUCT_NAME = Kinetra;
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_TREAT_WARNINGS_AS_ERRORS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		5519531642A3523F100679EF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		66CA90AF9445FB247E0FCE2A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					"DEBUG=1",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		AB275B821E701B68F3445CB4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGNING_ALLOWED = NO;
+				CODE_SIGNING_REQUIRED = NO;
+				CODE_SIGN_IDENTITY = "";
+				CODE_SIGN_STYLE = Manual;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = Kinetra/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kinetra.app;
+				PRODUCT_NAME = Kinetra;
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_TREAT_WARNINGS_AS_ERRORS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		046C2E79F846935CDC99464D /* Build configuration list for PBXProject "Kinetra" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				66CA90AF9445FB247E0FCE2A /* Debug */,
+				5519531642A3523F100679EF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		31BC1644FDA8925CCC03FE8D /* Build configuration list for PBXNativeTarget "Kinetra" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AB275B821E701B68F3445CB4 /* Debug */,
+				40E69D03E9CB26B2C19B8553 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 1EA6C40DBC28BEB315171E2F /* Project object */;
+}

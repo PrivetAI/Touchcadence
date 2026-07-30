@@ -1,0 +1,20 @@
+{
+ "version": 1,
+ "movements": [
+  { "movement": "linear",      "frequency": 0.30, "amplitude": 0.86, "phase": 0.00 },
+  { "movement": "circle",      "frequency": 0.28, "amplitude": 0.80, "phase": 0.05 },
+  { "movement": "sine",        "frequency": 0.30, "amplitude": 0.88, "phase": 0.10 },
+  { "movement": "zigzag",      "frequency": 0.34, "amplitude": 0.84, "phase": 0.15 },
+  { "movement": "random",      "frequency": 0.42, "amplitude": 0.86, "phase": 0.20 },
+  { "movement": "accelerate",  "frequency": 0.30, "amplitude": 0.86, "phase": 0.25 },
+  { "movement": "decelerate",  "frequency": 0.30, "amplitude": 0.86, "phase": 0.30 },
+  { "movement": "dash",        "frequency": 0.34, "amplitude": 0.84, "phase": 0.35 },
+  { "movement": "pendulum",    "frequency": 0.26, "amplitude": 0.78, "phase": 0.40 },
+  { "movement": "spiral",      "frequency": 0.22, "amplitude": 0.82, "phase": 0.45 },
+  { "movement": "ellipse",     "frequency": 0.26, "amplitude": 0.68, "phase": 0.50 },
+  { "movement": "eight",       "frequency": 0.24, "amplitude": 0.82, "phase": 0.55 },
+  { "movement": "teleport",    "frequency": 0.34, "amplitude": 0.80, "phase": 0.60 },
+  { "movement": "reverse",     "frequency": 0.28, "amplitude": 0.80, "phase": 0.65 },
+  { "movement": "combined",    "frequency": 0.30, "amplitude": 0.84, "phase": 0.70 }
+ ]
+}

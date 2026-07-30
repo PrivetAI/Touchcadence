@@ -1,0 +1,1685 @@
+{
+ "version": 1,
+ "trainings": [
+  {
+   "id": "c11055d3-66eb-50fd-a786-ace3340946dd",
+   "name": "Linear Tempo Intro",
+   "category": "speed",
+   "difficulty": "beginner",
+   "duration": 30,
+   "movement": "linear",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "0bb79f85-7407-52b2-b586-3a3c220692cc",
+   "name": "Circle Tempo Drill",
+   "category": "speed",
+   "difficulty": "easy",
+   "duration": 35,
+   "movement": "circle",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "2939de5d-b1b4-56e3-8280-1b00a46a414c",
+   "name": "Sine Wave Tempo Set",
+   "category": "speed",
+   "difficulty": "normal",
+   "duration": 40,
+   "movement": "sine",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "3785dafb-4cea-58e8-a303-99f1c0ce55bd",
+   "name": "Zigzag Tempo Trial",
+   "category": "speed",
+   "difficulty": "advanced",
+   "duration": 45,
+   "movement": "zigzag",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "0828149c-40f3-5e58-9bca-c013365e1550",
+   "name": "Random Drift Tempo Gauntlet",
+   "category": "speed",
+   "difficulty": "expert",
+   "duration": 50,
+   "movement": "random",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "fbab2d90-1117-59ea-b030-b734782dadd7",
+   "name": "Accelerating Tempo Circuit",
+   "category": "speed",
+   "difficulty": "master",
+   "duration": 55,
+   "movement": "accelerate",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "b842a2cb-3167-5d21-95dd-1584e72e4f4f",
+   "name": "Decelerating Tempo Apex",
+   "category": "speed",
+   "difficulty": "impossible",
+   "duration": 60,
+   "movement": "decelerate",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "d948ecd2-f99f-52f0-82fa-9953302cdd81",
+   "name": "Dash Tempo Intro",
+   "category": "speed",
+   "difficulty": "beginner",
+   "duration": 30,
+   "movement": "dash",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "30c1e0c1-611b-5b2f-ab4c-e05e61764624",
+   "name": "Pendulum Tempo Drill",
+   "category": "speed",
+   "difficulty": "easy",
+   "duration": 35,
+   "movement": "pendulum",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "e46e0764-deab-576c-ac2e-7bdb254c458f",
+   "name": "Spiral Tempo Set",
+   "category": "speed",
+   "difficulty": "normal",
+   "duration": 40,
+   "movement": "spiral",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "a4b8c413-99b9-54d2-ac3b-a08198c03404",
+   "name": "Ellipse Tempo Trial",
+   "category": "speed",
+   "difficulty": "advanced",
+   "duration": 45,
+   "movement": "ellipse",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "79a61773-cf39-5ec3-874c-9282c855f159",
+   "name": "Figure Eight Tempo Gauntlet",
+   "category": "speed",
+   "difficulty": "expert",
+   "duration": 50,
+   "movement": "eight",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "dedb112f-d29d-5e9c-994b-8e516449a0c1",
+   "name": "Teleport Tempo Circuit",
+   "category": "speed",
+   "difficulty": "master",
+   "duration": 55,
+   "movement": "teleport",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "76a5f7ac-d555-523a-a927-89144b39949b",
+   "name": "Reversing Tempo Apex",
+   "category": "speed",
+   "difficulty": "impossible",
+   "duration": 60,
+   "movement": "reverse",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "ea317e5f-6d9e-517b-ba6c-7c004b9b9c90",
+   "name": "Combined Tempo Intro",
+   "category": "speed",
+   "difficulty": "beginner",
+   "duration": 30,
+   "movement": "combined",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "4f75f520-19f1-5a4f-bc24-0561e09b2028",
+   "name": "Linear Response Drill",
+   "category": "reaction",
+   "difficulty": "easy",
+   "duration": 35,
+   "movement": "linear",
+   "targetSize": "large",
+   "isCustom": false
+  },
+  {
+   "id": "481ae515-37af-5fbd-969f-29f6f4e90579",
+   "name": "Circle Response Set",
+   "category": "reaction",
+   "difficulty": "normal",
+   "duration": 40,
+   "movement": "circle",
+   "targetSize": "large",
+   "isCustom": false
+  },
+  {
+   "id": "214d22f3-44f9-5b50-ab54-24fcb7525d25",
+   "name": "Sine Wave Response Trial",
+   "category": "reaction",
+   "difficulty": "advanced",
+   "duration": 45,
+   "movement": "sine",
+   "targetSize": "large",
+   "isCustom": false
+  },
+  {
+   "id": "87288647-46f3-5239-9ed6-4ea75ac1a374",
+   "name": "Zigzag Response Gauntlet",
+   "category": "reaction",
+   "difficulty": "expert",
+   "duration": 50,
+   "movement": "zigzag",
+   "targetSize": "large",
+   "isCustom": false
+  },
+  {
+   "id": "64ac82b1-2dd1-5df8-a3e4-8933cc855ae3",
+   "name": "Random Drift Response Circuit",
+   "category": "reaction",
+   "difficulty": "master",
+   "duration": 55,
+   "movement": "random",
+   "targetSize": "large",
+   "isCustom": false
+  },
+  {
+   "id": "5a44f976-0b86-59d1-8c00-a210aad1b32f",
+   "name": "Accelerating Response Apex",
+   "category": "reaction",
+   "difficulty": "impossible",
+   "duration": 60,
+   "movement": "accelerate",
+   "targetSize": "large",
+   "isCustom": false
+  },
+  {
+   "id": "c84dadfe-e4bc-54c6-9ec6-069494fe4674",
+   "name": "Decelerating Response Intro",
+   "category": "reaction",
+   "difficulty": "beginner",
+   "duration": 30,
+   "movement": "decelerate",
+   "targetSize": "large",
+   "isCustom": false
+  },
+  {
+   "id": "71d44887-4373-5aa5-872b-52dd21e8c962",
+   "name": "Dash Response Drill",
+   "category": "reaction",
+   "difficulty": "easy",
+   "duration": 35,
+   "movement": "dash",
+   "targetSize": "large",
+   "isCustom": false
+  },
+  {
+   "id": "c1ec49ea-c9a6-576b-8f41-cbb002102f82",
+   "name": "Pendulum Response Set",
+   "category": "reaction",
+   "difficulty": "normal",
+   "duration": 40,
+   "movement": "pendulum",
+   "targetSize": "large",
+   "isCustom": false
+  },
+  {
+   "id": "998fe200-a916-5fb5-9c9f-df07cd100876",
+   "name": "Spiral Response Trial",
+   "category": "reaction",
+   "difficulty": "advanced",
+   "duration": 45,
+   "movement": "spiral",
+   "targetSize": "large",
+   "isCustom": false
+  },
+  {
+   "id": "97c6917b-4ef4-5f41-891d-24b80b19b830",
+   "name": "Ellipse Response Gauntlet",
+   "category": "reaction",
+   "difficulty": "expert",
+   "duration": 50,
+   "movement": "ellipse",
+   "targetSize": "large",
+   "isCustom": false
+  },
+  {
+   "id": "ea564f53-2390-5d94-9b88-aee4eb9e6a0d",
+   "name": "Figure Eight Response Circuit",
+   "category": "reaction",
+   "difficulty": "master",
+   "duration": 55,
+   "movement": "eight",
+   "targetSize": "large",
+   "isCustom": false
+  },
+  {
+   "id": "9bc5e604-e6a1-546e-80aa-4ed97114b46d",
+   "name": "Teleport Response Apex",
+   "category": "reaction",
+   "difficulty": "impossible",
+   "duration": 60,
+   "movement": "teleport",
+   "targetSize": "large",
+   "isCustom": false
+  },
+  {
+   "id": "486692d6-e4cb-5ea6-a9ad-33f172bc3601",
+   "name": "Reversing Response Intro",
+   "category": "reaction",
+   "difficulty": "beginner",
+   "duration": 30,
+   "movement": "reverse",
+   "targetSize": "large",
+   "isCustom": false
+  },
+  {
+   "id": "28ac8bc2-e24c-5f4c-80fe-e797f8fdf153",
+   "name": "Combined Response Drill",
+   "category": "reaction",
+   "difficulty": "easy",
+   "duration": 35,
+   "movement": "combined",
+   "targetSize": "large",
+   "isCustom": false
+  },
+  {
+   "id": "b085ab51-578a-5cea-a6a7-4e189d07a50c",
+   "name": "Linear Precision Set",
+   "category": "precision",
+   "difficulty": "normal",
+   "duration": 55,
+   "movement": "linear",
+   "targetSize": "small",
+   "isCustom": false
+  },
+  {
+   "id": "15f550dc-12c7-596a-adfc-520c71715695",
+   "name": "Circle Precision Trial",
+   "category": "precision",
+   "difficulty": "advanced",
+   "duration": 60,
+   "movement": "circle",
+   "targetSize": "small",
+   "isCustom": false
+  },
+  {
+   "id": "4bc0ce3c-4e8e-53d7-89a0-cf850b698a0a",
+   "name": "Sine Wave Precision Gauntlet",
+   "category": "precision",
+   "difficulty": "expert",
+   "duration": 65,
+   "movement": "sine",
+   "targetSize": "small",
+   "isCustom": false
+  },
+  {
+   "id": "c2509c19-bc9c-5062-95e7-538664e865c4",
+   "name": "Zigzag Precision Circuit",
+   "category": "precision",
+   "difficulty": "master",
+   "duration": 70,
+   "movement": "zigzag",
+   "targetSize": "small",
+   "isCustom": false
+  },
+  {
+   "id": "ad2c5024-50e9-5294-a20e-72b8034a5c8a",
+   "name": "Random Drift Precision Apex",
+   "category": "precision",
+   "difficulty": "impossible",
+   "duration": 75,
+   "movement": "random",
+   "targetSize": "small",
+   "isCustom": false
+  },
+  {
+   "id": "94749e95-d0fa-5231-8ad4-9c260800db61",
+   "name": "Accelerating Precision Intro",
+   "category": "precision",
+   "difficulty": "beginner",
+   "duration": 45,
+   "movement": "accelerate",
+   "targetSize": "small",
+   "isCustom": false
+  },
+  {
+   "id": "98b2651b-6f88-5d98-8d2f-8c44b37ff1e3",
+   "name": "Decelerating Precision Drill",
+   "category": "precision",
+   "difficulty": "easy",
+   "duration": 50,
+   "movement": "decelerate",
+   "targetSize": "small",
+   "isCustom": false
+  },
+  {
+   "id": "46a85ef7-423a-5ff4-8379-7ec4f5f0a56a",
+   "name": "Dash Precision Set",
+   "category": "precision",
+   "difficulty": "normal",
+   "duration": 55,
+   "movement": "dash",
+   "targetSize": "small",
+   "isCustom": false
+  },
+  {
+   "id": "9a14812a-38e7-5a8c-bf69-7ad05e2328fa",
+   "name": "Pendulum Precision Trial",
+   "category": "precision",
+   "difficulty": "advanced",
+   "duration": 60,
+   "movement": "pendulum",
+   "targetSize": "small",
+   "isCustom": false
+  },
+  {
+   "id": "5ddcf375-43e2-5cf3-bbaa-d85ef3c1084f",
+   "name": "Spiral Precision Gauntlet",
+   "category": "precision",
+   "difficulty": "expert",
+   "duration": 65,
+   "movement": "spiral",
+   "targetSize": "small",
+   "isCustom": false
+  },
+  {
+   "id": "656f782f-909b-55ec-b6c3-985879fbf4e7",
+   "name": "Ellipse Precision Circuit",
+   "category": "precision",
+   "difficulty": "master",
+   "duration": 70,
+   "movement": "ellipse",
+   "targetSize": "small",
+   "isCustom": false
+  },
+  {
+   "id": "106c554d-c892-52e6-ae9a-876307b51e08",
+   "name": "Figure Eight Precision Apex",
+   "category": "precision",
+   "difficulty": "impossible",
+   "duration": 75,
+   "movement": "eight",
+   "targetSize": "small",
+   "isCustom": false
+  },
+  {
+   "id": "cdc4e224-0214-5bc2-bc1a-52fba09d1caa",
+   "name": "Teleport Precision Intro",
+   "category": "precision",
+   "difficulty": "beginner",
+   "duration": 45,
+   "movement": "teleport",
+   "targetSize": "small",
+   "isCustom": false
+  },
+  {
+   "id": "57e4edfb-3d3d-5b27-84cb-47cc920ba977",
+   "name": "Reversing Precision Drill",
+   "category": "precision",
+   "difficulty": "easy",
+   "duration": 50,
+   "movement": "reverse",
+   "targetSize": "small",
+   "isCustom": false
+  },
+  {
+   "id": "2ca07400-d63a-587c-9771-0fe4edef68aa",
+   "name": "Combined Precision Set",
+   "category": "precision",
+   "difficulty": "normal",
+   "duration": 55,
+   "movement": "combined",
+   "targetSize": "small",
+   "isCustom": false
+  },
+  {
+   "id": "ef05d4e9-3849-504b-aa53-fe8152459976",
+   "name": "Linear Cadence Trial",
+   "category": "rhythm",
+   "difficulty": "advanced",
+   "duration": 60,
+   "movement": "linear",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "597160e1-557c-505b-b1a2-3716c8c41c08",
+   "name": "Circle Cadence Gauntlet",
+   "category": "rhythm",
+   "difficulty": "expert",
+   "duration": 65,
+   "movement": "circle",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "1eef432a-c15b-5e3c-bc6d-7a853a6f425a",
+   "name": "Sine Wave Cadence Circuit",
+   "category": "rhythm",
+   "difficulty": "master",
+   "duration": 70,
+   "movement": "sine",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "f6e34ba9-b86a-55e2-b856-3fc07f27b6c7",
+   "name": "Zigzag Cadence Apex",
+   "category": "rhythm",
+   "difficulty": "impossible",
+   "duration": 75,
+   "movement": "zigzag",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "8556100b-8919-55b8-957b-92c58bb5f5d8",
+   "name": "Random Drift Cadence Intro",
+   "category": "rhythm",
+   "difficulty": "beginner",
+   "duration": 45,
+   "movement": "random",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "945f4a46-a3aa-5076-b33e-ebe629bd6171",
+   "name": "Accelerating Cadence Drill",
+   "category": "rhythm",
+   "difficulty": "easy",
+   "duration": 50,
+   "movement": "accelerate",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "b49efd8f-4135-5175-87de-8a10e7017dfe",
+   "name": "Decelerating Cadence Set",
+   "category": "rhythm",
+   "difficulty": "normal",
+   "duration": 55,
+   "movement": "decelerate",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "7330bf3c-59ad-53d3-a5b2-978d7a73e957",
+   "name": "Dash Cadence Trial",
+   "category": "rhythm",
+   "difficulty": "advanced",
+   "duration": 60,
+   "movement": "dash",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "bccb4027-d20e-58e6-9158-66e695aa0e89",
+   "name": "Pendulum Cadence Gauntlet",
+   "category": "rhythm",
+   "difficulty": "expert",
+   "duration": 65,
+   "movement": "pendulum",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "40d20617-3ac7-5757-8af0-d2a8dfe0797b",
+   "name": "Spiral Cadence Circuit",
+   "category": "rhythm",
+   "difficulty": "master",
+   "duration": 70,
+   "movement": "spiral",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "d2e9803f-c3ed-510b-aa5c-d8afe71ee335",
+   "name": "Ellipse Cadence Apex",
+   "category": "rhythm",
+   "difficulty": "impossible",
+   "duration": 75,
+   "movement": "ellipse",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "1d133f42-743e-5f18-9ae1-fa3c8b3a5caf",
+   "name": "Figure Eight Cadence Intro",
+   "category": "rhythm",
+   "difficulty": "beginner",
+   "duration": 45,
+   "movement": "eight",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "25c12940-d3ea-54e8-b851-ce91234d49af",
+   "name": "Teleport Cadence Drill",
+   "category": "rhythm",
+   "difficulty": "easy",
+   "duration": 50,
+   "movement": "teleport",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "a0f0727a-3fea-5a5f-a29e-a8293b082f6a",
+   "name": "Reversing Cadence Set",
+   "category": "rhythm",
+   "difficulty": "normal",
+   "duration": 55,
+   "movement": "reverse",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "9f4b8b1d-e01a-57a8-a315-9c2fb1409043",
+   "name": "Combined Cadence Trial",
+   "category": "rhythm",
+   "difficulty": "advanced",
+   "duration": 60,
+   "movement": "combined",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "2d9fbab5-7d21-553c-a7d1-c855a1cfb19b",
+   "name": "Linear Control Gauntlet",
+   "category": "control",
+   "difficulty": "expert",
+   "duration": 80,
+   "movement": "linear",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "684945a0-5533-5b1e-a7af-7ebd1a966521",
+   "name": "Circle Control Circuit",
+   "category": "control",
+   "difficulty": "master",
+   "duration": 85,
+   "movement": "circle",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "9f6d2ca6-a81f-59e5-a17b-9e3c11a02177",
+   "name": "Sine Wave Control Apex",
+   "category": "control",
+   "difficulty": "impossible",
+   "duration": 90,
+   "movement": "sine",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "e383a087-a9d6-5d36-b030-bcb282f50244",
+   "name": "Zigzag Control Intro",
+   "category": "control",
+   "difficulty": "beginner",
+   "duration": 60,
+   "movement": "zigzag",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "d973c6eb-171e-5b1e-9993-474fd447b3d8",
+   "name": "Random Drift Control Drill",
+   "category": "control",
+   "difficulty": "easy",
+   "duration": 65,
+   "movement": "random",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "80f48258-dcf6-5aea-9743-913fd0d55ba4",
+   "name": "Accelerating Control Set",
+   "category": "control",
+   "difficulty": "normal",
+   "duration": 70,
+   "movement": "accelerate",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "f852f803-7e34-5c3a-a8c7-325939ea8b23",
+   "name": "Decelerating Control Trial",
+   "category": "control",
+   "difficulty": "advanced",
+   "duration": 75,
+   "movement": "decelerate",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "d05789b6-80ce-5210-a878-b2d96e7efc59",
+   "name": "Dash Control Gauntlet",
+   "category": "control",
+   "difficulty": "expert",
+   "duration": 80,
+   "movement": "dash",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "31db4a7d-d800-5928-bb03-7f37ddf17824",
+   "name": "Pendulum Control Circuit",
+   "category": "control",
+   "difficulty": "master",
+   "duration": 85,
+   "movement": "pendulum",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "98565219-676c-5976-8890-3c376df7e972",
+   "name": "Spiral Control Apex",
+   "category": "control",
+   "difficulty": "impossible",
+   "duration": 90,
+   "movement": "spiral",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "fcf7d927-ce4e-5384-b94b-ccf12f4fbf6c",
+   "name": "Ellipse Control Intro",
+   "category": "control",
+   "difficulty": "beginner",
+   "duration": 60,
+   "movement": "ellipse",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "25d380c2-6300-532b-ad48-f49217ef4e64",
+   "name": "Figure Eight Control Drill",
+   "category": "control",
+   "difficulty": "easy",
+   "duration": 65,
+   "movement": "eight",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "ff05ade1-2744-5223-8994-4eb84825bd07",
+   "name": "Teleport Control Set",
+   "category": "control",
+   "difficulty": "normal",
+   "duration": 70,
+   "movement": "teleport",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "cb0a6ec5-bfc1-5423-9975-e693aae3fde7",
+   "name": "Reversing Control Trial",
+   "category": "control",
+   "difficulty": "advanced",
+   "duration": 75,
+   "movement": "reverse",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "0994ebbf-0417-5707-a1f8-b3f7e293940b",
+   "name": "Combined Control Gauntlet",
+   "category": "control",
+   "difficulty": "expert",
+   "duration": 80,
+   "movement": "combined",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "60c3bc0b-539a-588e-a416-1de5485fd652",
+   "name": "Linear Tracking Circuit",
+   "category": "trajectory",
+   "difficulty": "master",
+   "duration": 70,
+   "movement": "linear",
+   "targetSize": "large",
+   "isCustom": false
+  },
+  {
+   "id": "acfa66da-5126-5363-aa51-742ad4b94353",
+   "name": "Circle Tracking Apex",
+   "category": "trajectory",
+   "difficulty": "impossible",
+   "duration": 75,
+   "movement": "circle",
+   "targetSize": "large",
+   "isCustom": false
+  },
+  {
+   "id": "9d5e12fa-56cb-5dc1-b8fc-579b338b7f27",
+   "name": "Sine Wave Tracking Intro",
+   "category": "trajectory",
+   "difficulty": "beginner",
+   "duration": 45,
+   "movement": "sine",
+   "targetSize": "large",
+   "isCustom": false
+  },
+  {
+   "id": "713fe0f0-9ce1-5bf9-9dde-47c52a6cfcb4",
+   "name": "Zigzag Tracking Drill",
+   "category": "trajectory",
+   "difficulty": "easy",
+   "duration": 50,
+   "movement": "zigzag",
+   "targetSize": "large",
+   "isCustom": false
+  },
+  {
+   "id": "51c51c31-424e-5022-b68a-2bf314237043",
+   "name": "Random Drift Tracking Set",
+   "category": "trajectory",
+   "difficulty": "normal",
+   "duration": 55,
+   "movement": "random",
+   "targetSize": "large",
+   "isCustom": false
+  },
+  {
+   "id": "6a31b792-33ef-5637-a44a-1b4a220460d4",
+   "name": "Accelerating Tracking Trial",
+   "category": "trajectory",
+   "difficulty": "advanced",
+   "duration": 60,
+   "movement": "accelerate",
+   "targetSize": "large",
+   "isCustom": false
+  },
+  {
+   "id": "b566cda3-aef4-5b0a-84e8-c73a95d50f59",
+   "name": "Decelerating Tracking Gauntlet",
+   "category": "trajectory",
+   "difficulty": "expert",
+   "duration": 65,
+   "movement": "decelerate",
+   "targetSize": "large",
+   "isCustom": false
+  },
+  {
+   "id": "658bdee1-4aaf-572b-9029-22290733b74d",
+   "name": "Dash Tracking Circuit",
+   "category": "trajectory",
+   "difficulty": "master",
+   "duration": 70,
+   "movement": "dash",
+   "targetSize": "large",
+   "isCustom": false
+  },
+  {
+   "id": "2179b0fa-0f23-5d6f-b217-511e5fc5a2d8",
+   "name": "Pendulum Tracking Apex",
+   "category": "trajectory",
+   "difficulty": "impossible",
+   "duration": 75,
+   "movement": "pendulum",
+   "targetSize": "large",
+   "isCustom": false
+  },
+  {
+   "id": "6428a8c8-a372-59cd-8952-8d673a9e7975",
+   "name": "Spiral Tracking Intro",
+   "category": "trajectory",
+   "difficulty": "beginner",
+   "duration": 45,
+   "movement": "spiral",
+   "targetSize": "large",
+   "isCustom": false
+  },
+  {
+   "id": "6ab0d9ab-6169-5637-9880-09d38a7476da",
+   "name": "Ellipse Tracking Drill",
+   "category": "trajectory",
+   "difficulty": "easy",
+   "duration": 50,
+   "movement": "ellipse",
+   "targetSize": "large",
+   "isCustom": false
+  },
+  {
+   "id": "8687c20f-d8db-5fd9-8dc0-d809a381375a",
+   "name": "Figure Eight Tracking Set",
+   "category": "trajectory",
+   "difficulty": "normal",
+   "duration": 55,
+   "movement": "eight",
+   "targetSize": "large",
+   "isCustom": false
+  },
+  {
+   "id": "fd02dd63-60ff-5eee-b0f7-df377a1c60d2",
+   "name": "Teleport Tracking Trial",
+   "category": "trajectory",
+   "difficulty": "advanced",
+   "duration": 60,
+   "movement": "teleport",
+   "targetSize": "large",
+   "isCustom": false
+  },
+  {
+   "id": "9647c975-9b07-5917-9c2d-4a349389a118",
+   "name": "Reversing Tracking Gauntlet",
+   "category": "trajectory",
+   "difficulty": "expert",
+   "duration": 65,
+   "movement": "reverse",
+   "targetSize": "large",
+   "isCustom": false
+  },
+  {
+   "id": "14cb3213-0988-53da-b25b-4be6c060c6a0",
+   "name": "Combined Tracking Circuit",
+   "category": "trajectory",
+   "difficulty": "master",
+   "duration": 70,
+   "movement": "combined",
+   "targetSize": "large",
+   "isCustom": false
+  },
+  {
+   "id": "e12fa575-7a42-5a4f-9845-7dc23c6bce9c",
+   "name": "Linear Stamina Apex",
+   "category": "endurance",
+   "difficulty": "impossible",
+   "duration": 120,
+   "movement": "linear",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "98c531cf-c5f6-5f04-9d91-c6f13105d3d0",
+   "name": "Circle Stamina Intro",
+   "category": "endurance",
+   "difficulty": "beginner",
+   "duration": 90,
+   "movement": "circle",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "3c362db2-087d-51d3-9500-b4cc63d097b8",
+   "name": "Sine Wave Stamina Drill",
+   "category": "endurance",
+   "difficulty": "easy",
+   "duration": 95,
+   "movement": "sine",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "239825ed-4734-52a6-9054-8c860f886a4b",
+   "name": "Zigzag Stamina Set",
+   "category": "endurance",
+   "difficulty": "normal",
+   "duration": 100,
+   "movement": "zigzag",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "040ef292-feff-5dec-b2a8-7847f5312a45",
+   "name": "Random Drift Stamina Trial",
+   "category": "endurance",
+   "difficulty": "advanced",
+   "duration": 105,
+   "movement": "random",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "a36a8404-f39a-5ccb-9ae3-fd86fe5081b1",
+   "name": "Accelerating Stamina Gauntlet",
+   "category": "endurance",
+   "difficulty": "expert",
+   "duration": 110,
+   "movement": "accelerate",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "1abac09a-5a21-5320-8772-44aa7f0140df",
+   "name": "Decelerating Stamina Circuit",
+   "category": "endurance",
+   "difficulty": "master",
+   "duration": 115,
+   "movement": "decelerate",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "7c6c0192-3714-5009-b35d-e91e97c35fa0",
+   "name": "Dash Stamina Apex",
+   "category": "endurance",
+   "difficulty": "impossible",
+   "duration": 120,
+   "movement": "dash",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "d0470762-8644-55b6-b39e-64d7492a338f",
+   "name": "Pendulum Stamina Intro",
+   "category": "endurance",
+   "difficulty": "beginner",
+   "duration": 90,
+   "movement": "pendulum",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "4865b007-dfb8-5260-b2e9-0491eca072d1",
+   "name": "Spiral Stamina Drill",
+   "category": "endurance",
+   "difficulty": "easy",
+   "duration": 95,
+   "movement": "spiral",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "a14b3964-b505-5525-8ec0-d3d39da226c2",
+   "name": "Ellipse Stamina Set",
+   "category": "endurance",
+   "difficulty": "normal",
+   "duration": 100,
+   "movement": "ellipse",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "8ae8de47-3338-5a35-a235-ffac45b249b8",
+   "name": "Figure Eight Stamina Trial",
+   "category": "endurance",
+   "difficulty": "advanced",
+   "duration": 105,
+   "movement": "eight",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "cd548a0f-916d-536e-9c7e-419f4d222fcc",
+   "name": "Teleport Stamina Gauntlet",
+   "category": "endurance",
+   "difficulty": "expert",
+   "duration": 110,
+   "movement": "teleport",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "dae7695d-5ad6-5b9e-a737-77c66dc78702",
+   "name": "Reversing Stamina Circuit",
+   "category": "endurance",
+   "difficulty": "master",
+   "duration": 115,
+   "movement": "reverse",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "935ce27c-3755-587f-af37-6205dcb18399",
+   "name": "Combined Stamina Apex",
+   "category": "endurance",
+   "difficulty": "impossible",
+   "duration": 120,
+   "movement": "combined",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "dda80d25-ff9a-5f89-91cb-c4b9b0454a39",
+   "name": "Linear Composite Intro",
+   "category": "combined",
+   "difficulty": "beginner",
+   "duration": 60,
+   "movement": "linear",
+   "targetSize": "small",
+   "isCustom": false
+  },
+  {
+   "id": "b2290dc5-76cc-5ea9-9e36-53c8792558c6",
+   "name": "Circle Composite Drill",
+   "category": "combined",
+   "difficulty": "easy",
+   "duration": 65,
+   "movement": "circle",
+   "targetSize": "small",
+   "isCustom": false
+  },
+  {
+   "id": "e869f4ae-624b-5c14-85ec-164f3dedeeb5",
+   "name": "Sine Wave Composite Set",
+   "category": "combined",
+   "difficulty": "normal",
+   "duration": 70,
+   "movement": "sine",
+   "targetSize": "small",
+   "isCustom": false
+  },
+  {
+   "id": "8cc9f672-2cc1-5088-ad7b-e7ac00d683d1",
+   "name": "Zigzag Composite Trial",
+   "category": "combined",
+   "difficulty": "advanced",
+   "duration": 75,
+   "movement": "zigzag",
+   "targetSize": "small",
+   "isCustom": false
+  },
+  {
+   "id": "5d5a4c28-38cc-56d5-b94e-cbc8adfcaea8",
+   "name": "Random Drift Composite Gauntlet",
+   "category": "combined",
+   "difficulty": "expert",
+   "duration": 80,
+   "movement": "random",
+   "targetSize": "small",
+   "isCustom": false
+  },
+  {
+   "id": "3878195c-5eb5-5579-9766-b0f5865e0535",
+   "name": "Accelerating Composite Circuit",
+   "category": "combined",
+   "difficulty": "master",
+   "duration": 85,
+   "movement": "accelerate",
+   "targetSize": "small",
+   "isCustom": false
+  },
+  {
+   "id": "f3fe3297-788e-5aa3-9f5c-65fd05ed07a5",
+   "name": "Decelerating Composite Apex",
+   "category": "combined",
+   "difficulty": "impossible",
+   "duration": 90,
+   "movement": "decelerate",
+   "targetSize": "small",
+   "isCustom": false
+  },
+  {
+   "id": "f6cc957a-2c26-5b60-a99d-4f0f4ac5948a",
+   "name": "Dash Composite Intro",
+   "category": "combined",
+   "difficulty": "beginner",
+   "duration": 60,
+   "movement": "dash",
+   "targetSize": "small",
+   "isCustom": false
+  },
+  {
+   "id": "4780c0f8-5aba-5f2a-a35a-5aeb388d3f7c",
+   "name": "Pendulum Composite Drill",
+   "category": "combined",
+   "difficulty": "easy",
+   "duration": 65,
+   "movement": "pendulum",
+   "targetSize": "small",
+   "isCustom": false
+  },
+  {
+   "id": "e05dbb5d-3d74-5102-8200-f4d1f164c49a",
+   "name": "Spiral Composite Set",
+   "category": "combined",
+   "difficulty": "normal",
+   "duration": 70,
+   "movement": "spiral",
+   "targetSize": "small",
+   "isCustom": false
+  },
+  {
+   "id": "c0456dc0-33b6-524d-92ae-151538237e98",
+   "name": "Ellipse Composite Trial",
+   "category": "combined",
+   "difficulty": "advanced",
+   "duration": 75,
+   "movement": "ellipse",
+   "targetSize": "small",
+   "isCustom": false
+  },
+  {
+   "id": "a7d30919-e3a3-5775-a76f-529c9fc2d19b",
+   "name": "Figure Eight Composite Gauntlet",
+   "category": "combined",
+   "difficulty": "expert",
+   "duration": 80,
+   "movement": "eight",
+   "targetSize": "small",
+   "isCustom": false
+  },
+  {
+   "id": "df8dfb80-28c4-5f9f-a7e0-b1e0bcadda77",
+   "name": "Teleport Composite Circuit",
+   "category": "combined",
+   "difficulty": "master",
+   "duration": 85,
+   "movement": "teleport",
+   "targetSize": "small",
+   "isCustom": false
+  },
+  {
+   "id": "d4a67016-6485-50fb-8acd-bdb718730ee6",
+   "name": "Reversing Composite Apex",
+   "category": "combined",
+   "difficulty": "impossible",
+   "duration": 90,
+   "movement": "reverse",
+   "targetSize": "small",
+   "isCustom": false
+  },
+  {
+   "id": "21e65186-b2b1-5f66-8f38-bdbf82a3d415",
+   "name": "Combined Composite Intro",
+   "category": "combined",
+   "difficulty": "beginner",
+   "duration": 60,
+   "movement": "combined",
+   "targetSize": "small",
+   "isCustom": false
+  },
+  {
+   "id": "0686e6a8-538a-55a9-a280-0c2259ae94f1",
+   "name": "Circle Tempo Gauntlet",
+   "category": "speed",
+   "difficulty": "expert",
+   "duration": 50,
+   "movement": "circle",
+   "targetSize": "large",
+   "isCustom": false
+  },
+  {
+   "id": "e96af6d0-4502-5dd1-8f6e-3672dc59c622",
+   "name": "Sine Wave Tempo Circuit",
+   "category": "speed",
+   "difficulty": "master",
+   "duration": 55,
+   "movement": "sine",
+   "targetSize": "large",
+   "isCustom": false
+  },
+  {
+   "id": "e47f7036-b0bb-5870-9b44-2f7501b2ea7d",
+   "name": "Random Drift Tempo Intro",
+   "category": "speed",
+   "difficulty": "beginner",
+   "duration": 30,
+   "movement": "random",
+   "targetSize": "large",
+   "isCustom": false
+  },
+  {
+   "id": "0b1d943e-2d37-516c-b0a7-99a4fa4d1aa7",
+   "name": "Dash Tempo Trial",
+   "category": "speed",
+   "difficulty": "advanced",
+   "duration": 45,
+   "movement": "dash",
+   "targetSize": "large",
+   "isCustom": false
+  },
+  {
+   "id": "cc58d49f-389a-54be-afc7-788fa15e1bbf",
+   "name": "Figure Eight Tempo Intro",
+   "category": "speed",
+   "difficulty": "beginner",
+   "duration": 30,
+   "movement": "eight",
+   "targetSize": "large",
+   "isCustom": false
+  },
+  {
+   "id": "85f6a711-fd26-5ebf-b48c-540f54b8edb2",
+   "name": "Teleport Tempo Drill",
+   "category": "speed",
+   "difficulty": "easy",
+   "duration": 35,
+   "movement": "teleport",
+   "targetSize": "large",
+   "isCustom": false
+  },
+  {
+   "id": "b1d77c90-b730-55f3-8115-d2510260d0af",
+   "name": "Circle Response Circuit",
+   "category": "reaction",
+   "difficulty": "master",
+   "duration": 55,
+   "movement": "circle",
+   "targetSize": "huge",
+   "isCustom": false
+  },
+  {
+   "id": "4c6546f6-a79f-5454-ab7a-50f1f4dfeddc",
+   "name": "Sine Wave Response Apex",
+   "category": "reaction",
+   "difficulty": "impossible",
+   "duration": 60,
+   "movement": "sine",
+   "targetSize": "huge",
+   "isCustom": false
+  },
+  {
+   "id": "e660eab8-fce8-5d5d-bb04-74eda127b2a3",
+   "name": "Random Drift Response Drill",
+   "category": "reaction",
+   "difficulty": "easy",
+   "duration": 35,
+   "movement": "random",
+   "targetSize": "huge",
+   "isCustom": false
+  },
+  {
+   "id": "11438b1d-9742-58b1-82c1-3935aed55ffc",
+   "name": "Dash Response Gauntlet",
+   "category": "reaction",
+   "difficulty": "expert",
+   "duration": 50,
+   "movement": "dash",
+   "targetSize": "huge",
+   "isCustom": false
+  },
+  {
+   "id": "17984dd2-0e06-521e-95cc-c5fc4c5ad7c0",
+   "name": "Figure Eight Response Drill",
+   "category": "reaction",
+   "difficulty": "easy",
+   "duration": 35,
+   "movement": "eight",
+   "targetSize": "huge",
+   "isCustom": false
+  },
+  {
+   "id": "dbdd064b-ea04-5f7c-8595-a86c1d2f884e",
+   "name": "Teleport Response Set",
+   "category": "reaction",
+   "difficulty": "normal",
+   "duration": 40,
+   "movement": "teleport",
+   "targetSize": "huge",
+   "isCustom": false
+  },
+  {
+   "id": "0fce6d4b-8523-53f2-b74f-1f09eed93eff",
+   "name": "Circle Precision Apex",
+   "category": "precision",
+   "difficulty": "impossible",
+   "duration": 75,
+   "movement": "circle",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "3cf79375-ad8d-5dc7-90e5-832e82407fc6",
+   "name": "Sine Wave Precision Intro",
+   "category": "precision",
+   "difficulty": "beginner",
+   "duration": 45,
+   "movement": "sine",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "e7032004-2e9a-57a1-99eb-9bf9046f2db9",
+   "name": "Random Drift Precision Set",
+   "category": "precision",
+   "difficulty": "normal",
+   "duration": 55,
+   "movement": "random",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "a1986664-7f89-5e1c-b7f2-6a412bf08718",
+   "name": "Dash Precision Circuit",
+   "category": "precision",
+   "difficulty": "master",
+   "duration": 70,
+   "movement": "dash",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "a3dabccc-9383-5132-a05b-275562afbd22",
+   "name": "Figure Eight Precision Set",
+   "category": "precision",
+   "difficulty": "normal",
+   "duration": 55,
+   "movement": "eight",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "9c7fd712-e2a3-5a68-b718-59f95b1cd254",
+   "name": "Teleport Precision Trial",
+   "category": "precision",
+   "difficulty": "advanced",
+   "duration": 60,
+   "movement": "teleport",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "75ffcaaa-497d-5c2c-9db2-0332288bbc86",
+   "name": "Circle Cadence Intro",
+   "category": "rhythm",
+   "difficulty": "beginner",
+   "duration": 45,
+   "movement": "circle",
+   "targetSize": "large",
+   "isCustom": false
+  },
+  {
+   "id": "26ae8c1f-ab41-5848-b107-12c428b8a3aa",
+   "name": "Sine Wave Cadence Drill",
+   "category": "rhythm",
+   "difficulty": "easy",
+   "duration": 50,
+   "movement": "sine",
+   "targetSize": "large",
+   "isCustom": false
+  },
+  {
+   "id": "ca5783f7-ca51-5ab8-bcc0-861226459a69",
+   "name": "Random Drift Cadence Trial",
+   "category": "rhythm",
+   "difficulty": "advanced",
+   "duration": 60,
+   "movement": "random",
+   "targetSize": "large",
+   "isCustom": false
+  },
+  {
+   "id": "d2757576-6da4-59a5-b906-0f77e423a2ed",
+   "name": "Dash Cadence Apex",
+   "category": "rhythm",
+   "difficulty": "impossible",
+   "duration": 75,
+   "movement": "dash",
+   "targetSize": "large",
+   "isCustom": false
+  },
+  {
+   "id": "7a5cb1cd-a2ef-506e-a8af-b440bbf3f230",
+   "name": "Figure Eight Cadence Trial",
+   "category": "rhythm",
+   "difficulty": "advanced",
+   "duration": 60,
+   "movement": "eight",
+   "targetSize": "large",
+   "isCustom": false
+  },
+  {
+   "id": "6a61937d-7dc0-5593-8aed-88b7e27c319d",
+   "name": "Teleport Cadence Gauntlet",
+   "category": "rhythm",
+   "difficulty": "expert",
+   "duration": 65,
+   "movement": "teleport",
+   "targetSize": "large",
+   "isCustom": false
+  },
+  {
+   "id": "e448c67a-3e70-5f21-8bf5-e3789959e9bd",
+   "name": "Circle Control Drill",
+   "category": "control",
+   "difficulty": "easy",
+   "duration": 65,
+   "movement": "circle",
+   "targetSize": "large",
+   "isCustom": false
+  },
+  {
+   "id": "838b4ecb-28d5-5f89-b333-328bcd867de3",
+   "name": "Sine Wave Control Set",
+   "category": "control",
+   "difficulty": "normal",
+   "duration": 70,
+   "movement": "sine",
+   "targetSize": "large",
+   "isCustom": false
+  },
+  {
+   "id": "21ea7e41-2696-5567-85bb-de11e30f9b44",
+   "name": "Random Drift Control Gauntlet",
+   "category": "control",
+   "difficulty": "expert",
+   "duration": 80,
+   "movement": "random",
+   "targetSize": "large",
+   "isCustom": false
+  },
+  {
+   "id": "8cb3f70f-6241-5f71-9810-1a419c085ba4",
+   "name": "Dash Control Intro",
+   "category": "control",
+   "difficulty": "beginner",
+   "duration": 60,
+   "movement": "dash",
+   "targetSize": "large",
+   "isCustom": false
+  },
+  {
+   "id": "67d9ecd8-7c42-5316-8d42-44b35401c240",
+   "name": "Figure Eight Control Gauntlet",
+   "category": "control",
+   "difficulty": "expert",
+   "duration": 80,
+   "movement": "eight",
+   "targetSize": "large",
+   "isCustom": false
+  },
+  {
+   "id": "ca554f5a-94a5-57ba-84c3-3f772f7ea358",
+   "name": "Teleport Control Circuit",
+   "category": "control",
+   "difficulty": "master",
+   "duration": 85,
+   "movement": "teleport",
+   "targetSize": "large",
+   "isCustom": false
+  },
+  {
+   "id": "2df4d296-830f-5920-96c4-9ccfa61b5cd7",
+   "name": "Circle Tracking Set",
+   "category": "trajectory",
+   "difficulty": "normal",
+   "duration": 55,
+   "movement": "circle",
+   "targetSize": "huge",
+   "isCustom": false
+  },
+  {
+   "id": "7589e2b3-d3da-5c43-b20a-7f4e10d40795",
+   "name": "Sine Wave Tracking Trial",
+   "category": "trajectory",
+   "difficulty": "advanced",
+   "duration": 60,
+   "movement": "sine",
+   "targetSize": "huge",
+   "isCustom": false
+  },
+  {
+   "id": "6702b04b-fb65-595c-b8e2-3ea421c135b7",
+   "name": "Random Drift Tracking Circuit",
+   "category": "trajectory",
+   "difficulty": "master",
+   "duration": 70,
+   "movement": "random",
+   "targetSize": "huge",
+   "isCustom": false
+  },
+  {
+   "id": "b2a3ec1a-ad69-58c3-8c8a-49057936f42c",
+   "name": "Dash Tracking Drill",
+   "category": "trajectory",
+   "difficulty": "easy",
+   "duration": 50,
+   "movement": "dash",
+   "targetSize": "huge",
+   "isCustom": false
+  },
+  {
+   "id": "6d5ae3e6-985d-508d-aee7-afcdb97da609",
+   "name": "Figure Eight Tracking Circuit",
+   "category": "trajectory",
+   "difficulty": "master",
+   "duration": 70,
+   "movement": "eight",
+   "targetSize": "huge",
+   "isCustom": false
+  },
+  {
+   "id": "2876a330-e0c3-5c98-911a-de10b65f6a2f",
+   "name": "Teleport Tracking Apex",
+   "category": "trajectory",
+   "difficulty": "impossible",
+   "duration": 75,
+   "movement": "teleport",
+   "targetSize": "huge",
+   "isCustom": false
+  },
+  {
+   "id": "a8fa4120-a060-516c-9167-8c32c78a6630",
+   "name": "Circle Stamina Trial",
+   "category": "endurance",
+   "difficulty": "advanced",
+   "duration": 105,
+   "movement": "circle",
+   "targetSize": "large",
+   "isCustom": false
+  },
+  {
+   "id": "ec5a4e6a-58c5-5d3f-a003-48debec0d3d9",
+   "name": "Sine Wave Stamina Gauntlet",
+   "category": "endurance",
+   "difficulty": "expert",
+   "duration": 110,
+   "movement": "sine",
+   "targetSize": "large",
+   "isCustom": false
+  },
+  {
+   "id": "e2a6a9f8-50a9-5db4-acd8-6cf8a612c85c",
+   "name": "Random Drift Stamina Apex",
+   "category": "endurance",
+   "difficulty": "impossible",
+   "duration": 120,
+   "movement": "random",
+   "targetSize": "large",
+   "isCustom": false
+  },
+  {
+   "id": "da0f5c7a-a40b-5d2c-9e66-9f33450ca533",
+   "name": "Dash Stamina Set",
+   "category": "endurance",
+   "difficulty": "normal",
+   "duration": 100,
+   "movement": "dash",
+   "targetSize": "large",
+   "isCustom": false
+  },
+  {
+   "id": "2177bbcd-3aa1-5d3b-bf3a-37ef19ae8f84",
+   "name": "Figure Eight Stamina Apex",
+   "category": "endurance",
+   "difficulty": "impossible",
+   "duration": 120,
+   "movement": "eight",
+   "targetSize": "large",
+   "isCustom": false
+  },
+  {
+   "id": "a8183d6c-e573-5bba-ae72-7de292dceb9f",
+   "name": "Teleport Stamina Intro",
+   "category": "endurance",
+   "difficulty": "beginner",
+   "duration": 90,
+   "movement": "teleport",
+   "targetSize": "large",
+   "isCustom": false
+  },
+  {
+   "id": "9cc19aed-82ad-5cfe-a087-cc97e452dacf",
+   "name": "Circle Composite Gauntlet",
+   "category": "combined",
+   "difficulty": "expert",
+   "duration": 80,
+   "movement": "circle",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "67df9614-8e21-55c6-b462-96b6013c29ff",
+   "name": "Sine Wave Composite Circuit",
+   "category": "combined",
+   "difficulty": "master",
+   "duration": 85,
+   "movement": "sine",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "75026f86-59ce-5670-bda3-53a7316b84fe",
+   "name": "Random Drift Composite Intro",
+   "category": "combined",
+   "difficulty": "beginner",
+   "duration": 60,
+   "movement": "random",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "87fb292e-8f2a-5919-afd8-838ad0f71a1b",
+   "name": "Dash Composite Trial",
+   "category": "combined",
+   "difficulty": "advanced",
+   "duration": 75,
+   "movement": "dash",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "4c2dce54-4bb9-54ec-a21c-e47f7773daf1",
+   "name": "Figure Eight Composite Intro",
+   "category": "combined",
+   "difficulty": "beginner",
+   "duration": 60,
+   "movement": "eight",
+   "targetSize": "medium",
+   "isCustom": false
+  },
+  {
+   "id": "661b6889-cf2a-5a4c-8b27-60053a829f7d",
+   "name": "Teleport Composite Drill",
+   "category": "combined",
+   "difficulty": "easy",
+   "duration": 65,
+   "movement": "teleport",
+   "targetSize": "medium",
+   "isCustom": false
+  }
+ ]
+}
