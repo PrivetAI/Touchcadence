@@ -44,7 +44,7 @@ struct SettingsView: View {
             }
 
             NavigationLink { AboutView() } label: {
-                NavRow(glyph: .info, title: "About", detail: "What Kinetra measures and how")
+                NavRow(glyph: .info, title: "About", detail: "What Touchcadence measures and how")
             }
             .buttonStyle(.plain)
 
@@ -171,12 +171,12 @@ struct AboutView: View {
     @EnvironmentObject private var store: TrainingStore
 
     var body: some View {
-        ScreenScaffold(title: "About", subtitle: "Kinetra 1.0", back: true) {
+        ScreenScaffold(title: "About", subtitle: "Touchcadence 1.0", back: true) {
             Card {
                 HStack(spacing: Metrics.spaceM) {
-                    KinetraMark(size: 64, color: palette.text, accent: palette.accent, phase: 0.2)
+                    TouchcadenceMark(size: 64, color: palette.text, accent: palette.accent, phase: 0.2)
                     VStack(alignment: .leading, spacing: 4) {
-                        Text("Kinetra").font(.kHeadline).foregroundColor(palette.text)
+                        Text("Touchcadence").font(.kHeadline).foregroundColor(palette.text)
                         Text("Offline precision trainer").font(.kCaption)
                             .foregroundColor(palette.secondaryText)
                     }
@@ -211,7 +211,7 @@ struct AboutView: View {
 
             Card {
                 SectionTitle(text: "Privacy")
-                Text("Kinetra has no network code at all: no accounts, no analytics, no advertising and no permission prompts. Nothing is uploaded because there is nowhere for it to go.")
+                Text("Touchcadence has no network code at all: no accounts, no analytics, no advertising and no permission prompts. Nothing is uploaded because there is nowhere for it to go.")
                     .font(.kBody).foregroundColor(palette.secondaryText)
                     .fixedSize(horizontal: false, vertical: true)
             }

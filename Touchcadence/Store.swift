@@ -70,7 +70,7 @@ final class TrainingStore: ObservableObject {
         let dir = FileManager.default.urls(for: .applicationSupportDirectory, in: .userDomainMask).first
             ?? URL(fileURLWithPath: NSTemporaryDirectory())
         try? FileManager.default.createDirectory(at: dir, withIntermediateDirectories: true)
-        return dir.appendingPathComponent("kinetra.sqlite").path
+        return dir.appendingPathComponent("touchcadence.sqlite").path
     }
 
     // MARK: - Schema
@@ -499,8 +499,8 @@ enum ChallengeTag: Equatable {
 // MARK: - UserDefaults preferences
 
 struct SettingsStore {
-    private static let key = "kinetra.settings.v1"
-    private static let screenKey = "kinetra.lastScreen.v1"
+    private static let key = "touchcadence.settings.v1"
+    private static let screenKey = "touchcadence.lastScreen.v1"
 
     static func load() -> AppSettings {
         guard let data = UserDefaults.standard.data(forKey: key),

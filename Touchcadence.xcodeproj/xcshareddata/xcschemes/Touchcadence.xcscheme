@@ -6,9 +6,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "1A204124B5CCE99F46C69299"
-               BuildableName = "Kinetra.app"
-               BlueprintName = "Kinetra"
-               ReferencedContainer = "container:Kinetra.xcodeproj">
+               BuildableName = "Touchcadence.app"
+               BlueprintName = "Touchcadence"
+               ReferencedContainer = "container:Touchcadence.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -22,9 +22,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1A204124B5CCE99F46C69299"
-            BuildableName = "Kinetra.app"
-            BlueprintName = "Kinetra"
-            ReferencedContainer = "container:Kinetra.xcodeproj">
+            BuildableName = "Touchcadence.app"
+            BlueprintName = "Touchcadence"
+            ReferencedContainer = "container:Touchcadence.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1A204124B5CCE99F46C69299"
-            BuildableName = "Kinetra.app"
-            BlueprintName = "Kinetra"
-            ReferencedContainer = "container:Kinetra.xcodeproj">
+            BuildableName = "Touchcadence.app"
+            BlueprintName = "Touchcadence"
+            ReferencedContainer = "container:Touchcadence.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -1,7 +1,7 @@
 import SwiftUI
 
 @main
-struct KinetraApp: App {
+struct TouchcadenceApp: App {
     @StateObject private var store = TrainingStore()
 
     var body: some Scene {
@@ -49,9 +49,9 @@ private struct SplashScreen: View {
         ZStack {
             palette.background.ignoresSafeArea()
             VStack(spacing: Metrics.spaceL) {
-                KinetraMark(size: 132, color: palette.text, accent: palette.accent, phase: spin)
+                TouchcadenceMark(size: 132, color: palette.text, accent: palette.accent, phase: spin)
                 VStack(spacing: 6) {
-                    Text("KINETRA")
+                    Text("TOUCHCADENCE")
                         .font(.system(size: 30, weight: .bold, design: .rounded))
                         .tracking(6)
                         .foregroundColor(palette.text)

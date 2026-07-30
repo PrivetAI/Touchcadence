@@ -316,7 +316,7 @@ struct Glyph: View {
 }
 
 /// The app wordmark drawn as concentric arcs, used on the splash screen.
-struct KinetraMark: View {
+struct TouchcadenceMark: View {
     var size: CGFloat = 96
     var color: Color
     var accent: Color

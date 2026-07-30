@@ -6,7 +6,7 @@ struct HomeView: View {
     @State private var activeSession: Training?
 
     var body: some View {
-        ScreenScaffold(title: "Kinetra", subtitle: "Offline precision trainer") {
+        ScreenScaffold(title: "Touchcadence", subtitle: "Offline precision trainer") {
             profileCard
 
             SectionTitle(text: "Start", trailing: "\(store.builtIn.count) trainings")

@@ -19,7 +19,7 @@ final class SQLiteDatabase {
     }
 
     private var handle: OpaquePointer?
-    private let queue = DispatchQueue(label: "com.kinetra.sqlite")
+    private let queue = DispatchQueue(label: "com.touchcadence.sqlite")
 
     // MARK: - Lifecycle
 
