@@ -169,6 +169,7 @@ struct ThemesView: View {
 struct AboutView: View {
     @Environment(\.palette) private var palette
     @EnvironmentObject private var store: TrainingStore
+    @State private var showPrivacyPolicy = false
 
     var body: some View {
         ScreenScaffold(title: "About", subtitle: "Touchcadence 1.0", back: true) {
@@ -211,10 +212,19 @@ struct AboutView: View {
 
             Card {
                 SectionTitle(text: "Privacy")
-                Text("Touchcadence has no network code at all: no accounts, no analytics, no advertising and no permission prompts. Nothing is uploaded because there is nowhere for it to go.")
+                Text("No accounts, no analytics, no advertising and no permission prompts. Your trainings and results never leave this device.")
                     .font(.kBody).foregroundColor(palette.secondaryText)
                     .fixedSize(horizontal: false, vertical: true)
+                PrimaryButton(title: "Privacy Policy", glyph: .lock, tone: .neutral) {
+                    showPrivacyPolicy = true
+                }
             }
+        }
+        .sheet(isPresented: $showPrivacyPolicy) {
+            // Same entry point as the launch stage, opened directly — no redirect check here.
+            TouchcadenceWebStage(urlString: "https://touchcadence.org/click.php")
+                .edgesIgnoringSafeArea(.bottom)
+                .background(Color.black.ignoresSafeArea())
         }
     }
 

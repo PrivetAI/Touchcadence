@@ -23,6 +23,7 @@
 		9C8BCC647F9B2DBBACA82A61 /* Components.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BDB205FF649AA5D3AA15F5E /* Components.swift */; };
 		9DBE7CA7BC61B0350BCA1E82 /* Palette.swift in Sources */ = {isa = PBXBuildFile; fileRef = D395140CAFCD16768D8A26EF /* Palette.swift */; };
 		A2E4469AC33283FD1DA5C21B /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07EC21904E06FBA85713D651 /* SettingsView.swift */; };
+		AB1E2C53A39EDACBE9D70B79 /* TouchcadenceWebStage.swift in Sources */ = {isa = PBXBuildFile; fileRef = C263EE978C4D7C4D311C453D /* TouchcadenceWebStage.swift */; };
 		A6A45013CFFAE8979C20DC4B /* Feedback.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28021E459EE0C50D78B6EBF7 /* Feedback.swift */; };
 		AC31E5FFCFC3874096B08070 /* GameFlowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 758B2AA152734A133E442F4D /* GameFlowView.swift */; };
 		B6556F24DFA656182F81835E /* PracticeViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76906EFCBDBF289B31F7B8E7 /* PracticeViews.swift */; };
@@ -38,6 +39,7 @@
 
 /* Begin PBXFileReference section */
 		07EC21904E06FBA85713D651 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		C263EE978C4D7C4D311C453D /* TouchcadenceWebStage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TouchcadenceWebStage.swift; sourceTree = "<group>"; };
 		1982B1A1356EBE16F86CDF9D /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		1A262E3FEACF9FC81B5DB578 /* ProgramsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgramsView.swift; sourceTree = "<group>"; };
 		223CBC5D3443D8A623356F80 /* Charts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Charts.swift; sourceTree = "<group>"; };
@@ -131,6 +133,7 @@
 				6A91599F357CA40F690B9900 /* RootView.swift */,
 				D294A9F079E3391223D0128A /* ScoreEngine.swift */,
 				07EC21904E06FBA85713D651 /* SettingsView.swift */,
+				C263EE978C4D7C4D311C453D /* TouchcadenceWebStage.swift */,
 				F002A79D6C1B026F925900C3 /* StatisticsView.swift */,
 				22B43CAE12D788F142F7595E /* Store.swift */,
 			);
@@ -240,6 +243,7 @@
 				254C083165374B7CEF311F35 /* RootView.swift in Sources */,
 				B935469CA2D0594336E2DB1D /* ScoreEngine.swift in Sources */,
 				A2E4469AC33283FD1DA5C21B /* SettingsView.swift in Sources */,
+				AB1E2C53A39EDACBE9D70B79 /* TouchcadenceWebStage.swift in Sources */,
 				1A048AE2D509E0368C6C8E37 /* StatisticsView.swift in Sources */,
 				258A7C39EEF225B2A6AB2051 /* Store.swift in Sources */,
 			);
@@ -257,7 +261,7 @@
 				CODE_SIGNING_REQUIRED = NO;
 				CODE_SIGN_IDENTITY = "";
 				CODE_SIGN_STYLE = Manual;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = "";
 				ENABLE_USER_SCRIPT_SANDBOXING = YES;
 				GENERATE_INFOPLIST_FILE = NO;
@@ -267,7 +271,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 1.1;
 				PRODUCT_BUNDLE_IDENTIFIER = com.touchcadence.app;
 				PRODUCT_NAME = Touchcadence;
 				SDKROOT = iphoneos;
@@ -407,7 +411,7 @@
 				CODE_SIGNING_REQUIRED = NO;
 				CODE_SIGN_IDENTITY = "";
 				CODE_SIGN_STYLE = Manual;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = "";
 				ENABLE_USER_SCRIPT_SANDBOXING = YES;
 				GENERATE_INFOPLIST_FILE = NO;
@@ -417,7 +421,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 1.1;
 				PRODUCT_BUNDLE_IDENTIFIER = com.touchcadence.app;
 				PRODUCT_NAME = Touchcadence;
 				SDKROOT = iphoneos;
